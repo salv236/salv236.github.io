@@ -9,3 +9,7 @@
 * [Javascript Practice Exercises](https://github.com/salv236/javascript-practise-exercises)
 * [Javascript OOP](https://github.com/salv236/Javascript-OOP)
 * [Javascript - Becode](https://github.com/salv236/Javascript)
+* [Tip Calculator](https://github.com/salv236/javascript-calculator)
+* [MySite](https://github.com/salv236/MySite) -  needs to be beautified.
+* [Brad Traversy Javascript Fundamentals](https://github.com/salv236/BradTraversyJSFundametals)
+* [Becode Final Project](https://github.com/salv236/Becode-Final-Project) - in the starting phase
