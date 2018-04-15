@@ -2,6 +2,7 @@
 
 ## Projects
 
+* [Bookmarker ](https://github.com/salv236/Bookmarker) -  current challenges with trying to delete entries and showing url upon click of a button.
 * [Animated Car ](https://github.com/salv236/animated-car)
 * [Sample Business Application](https://github.com/salv236/sample-business-application)
 * [Test Repository](https://github.com/salv236/test-repository)
