@@ -32,7 +32,7 @@
 * [TransCyber Innovation](https://github.com/salv236/transcyber)
 * [project-pinterest BECODE](https://github.com/salv236/projet-4-Pinterest) - to be further developed
 * [Project Form - BECODE](https://github.com/salv236/projet-1-formulaire)
-* [sbeattie-podiatry](https://github.com/salv236/sbeattie-podiatry
+* [sbeattie-podiatry](https://github.com/salv236/sbeattie-podiatry)
 * [Site Template - Developer Support](https://github.com/salv236/site-template-developer-support)
 * [Design Components - BECODE](https://github.com/salv236/design-components) - HTML5, CSS3, Bootstrap, SASS
 * [QCM](https://github.com/salv236/projet-2-QCM)
