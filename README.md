@@ -2,6 +2,7 @@
 
 ## Projects
 
+* [Euyonymus](http://salvatoresaia.com/euonymus/)
 * [CSS3 Transitions](https://github.com/salv236/html-elements-transitions)
 * [Bookmarker ](https://github.com/salv236/Bookmarker) -  current challenges with trying to delete entries and showing url upon click of a button.
 * [Animated Car ](https://github.com/salv236/animated-car)
