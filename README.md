@@ -2,13 +2,14 @@
 
 ## Projects
 
-* [Euyonymus](http://salvatoresaia.com/euonymus/)
+* [Survery Form](https://github.com/salv236/survey-form)
+* [Euyonymus](https://github.com/salv236/euonymus)
 * [CSS3 Transitions](https://github.com/salv236/html-elements-transitions)
 * [Bookmarker ](https://github.com/salv236/Bookmarker) -  current challenges with trying to delete entries and showing url upon click of a button.
+* [Tribute Page](https://github.com/salv236/tribute-page)
 * [Animated Car ](https://github.com/salv236/animated-car)
 * [Sample Business Application](https://github.com/salv236/sample-business-application)
 * [Test Repository](https://github.com/salv236/test-repository)
-* [WorldTaxCalculator](https://github.com/salv236/worldTaxCalculator) - currently in progress, searching for APIs
 * [Udacity NanoDegree Front-end Google Scholarship](https://github.com/salv236/Udacity-Frontend-Scholarship)
 * [Jquery Training](https://github.com/salv236/jquery-training)
 * [Jquery Exercises](https://github.com/salv236?page=2&tab=repositories)
@@ -16,7 +17,7 @@
 * [Javascript OOP](https://github.com/salv236/Javascript-OOP)
 * [Javascript - Becode](https://github.com/salv236/Javascript)
 * [Tip Calculator](https://github.com/salv236/javascript-calculator)
-* [MySite](https://github.com/salv236/MySite) -  needs to be beautified.
+* [MySite](https://github.com/salv236/MySite)
 * [NewsLetter Restaurant](https://github.com/salv236/newsletter-restaurant)
 * [Brad Traversy Javascript Fundamentals](https://github.com/salv236/BradTraversyJSFundametals)
 * [Becode Final Project](https://github.com/salv236/Becode-Final-Project) - in the starting phase
