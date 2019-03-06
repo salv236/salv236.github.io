@@ -2,6 +2,7 @@
 
 ## Projects
 
+* [Javascript](https://github.com/salv236/Javascript) - all my learning of Javascript in one entire repository which include challenges.
 * [Survery Form](https://github.com/salv236/survey-form)
 * [Euyonymus](https://github.com/salv236/euonymus)
 * [CSS3 Transitions](https://github.com/salv236/html-elements-transitions)
