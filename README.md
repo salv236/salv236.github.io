@@ -3,6 +3,7 @@
 ## Projects
 
 * [Javascript](https://github.com/salv236/Javascript) - all my learning of Javascript in one entire repository which include challenges.
+* [JS Methods](https://github.com/salv236/js-methods) - In close collaboration with my mentor 1-2-1 coaching on javascript, a KanBan has been created to track my progress with understanding certain topics.
 * [Survery Form](https://github.com/salv236/survey-form)
 * [Euyonymus](https://github.com/salv236/euonymus)
 * [CSS3 Transitions](https://github.com/salv236/html-elements-transitions)
